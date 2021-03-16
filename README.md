@@ -1,3 +1,3 @@
 # Skylab Starter
 
-Práticas desenvolvidas durante o curso Skylab Starter disponibilizado pela RocketSeat.
+Practices during the Skylab Starter course offered by RocketSeat.
